@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About",
-    "des": "Hi."
+    "des": "Hallo."
   },
   "skills":{
     "my_skills": "Skills"
@@ -44,7 +44,7 @@
     "college_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "Mein Blog"
   },
   "link":{
     "link": "Link",

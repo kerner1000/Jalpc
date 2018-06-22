@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Lablicate
+    i18n: lablicate
   desc:
-    detail: I worked at Company A ...
+    detail: Eclipse Rich Client development for mass spectrometry and chromatography.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Current
+    i18n: lablicate_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Senior Software Enineer
+    i18n: lablicate_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Ruprecht-Karls-Universität Heidelberg
+    i18n: uni-hd
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Seminar on Applied Bioinformatics on the Example of Gene Expression Analysis using Unix and freely available Open Source Tools.
+    i18n: uni-hd_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: 2015
+    i18n: uni-hd_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Bioinformatics Traning
+    i18n: uni-hd_job
   icon: fa-plus-square
